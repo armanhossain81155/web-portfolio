@@ -40,7 +40,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    background-image: linear-gradient(45deg, red, tomato);
     padding: 10px 20px;
     border-radius: 25px;
     color: white;
@@ -50,6 +50,8 @@ section{
 
 .imgradi{
     border-radius: 50%;
+    border-style: solid;
+    color: orange;
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
